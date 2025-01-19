@@ -1,10 +1,10 @@
 {
-  "homepage": "https://rameshkumarpinisetti.github.io/newsAppReact",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "eslint-plugin-react-hooks": "^5.2.0-canary-d46b04a2-20250117",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
